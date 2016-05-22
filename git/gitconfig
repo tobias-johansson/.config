@@ -1,0 +1,11 @@
+[user]
+	name = Tobias Johansson
+	email = tobias.johansson@seal-software.com
+
+[alias]
+	st  = status -s
+	ci  = commit
+	cim = commit -m
+        co  = checkout
+	ap  = add -p
+
